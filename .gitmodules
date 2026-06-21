@@ -1,0 +1,3 @@
+[submodule "MeasuringNode"]
+	path = MeasuringNode
+	url = git@github.com:Ryzbread/AG-MeasuringNode.git
