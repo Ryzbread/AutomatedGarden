@@ -17,12 +17,12 @@
         * Solar panel array with charge controller for recharging batteries
         * User interface (UI) for monitoring and controlling the system
 2. **Measuring Nodes**:
-        * ESP-01S board for each measuring node
+        * ESP32-C3 Super Mini board for each measuring node
         * WiFi connectivity for communication between nodes and main controller
         * Soil moisture sensors to monitor soil conditions
         * No battery power, only solar power.
 3. **Watering Zone Nodes**:
-        * ESP-01S board for each watering zone node
+        * ESP32-C3 Super Mini board for each watering zone node
         * WiFi connectivity for communication between nodes and main controller
         * Solenoid valves for precise water control
         * No battery power, only solar power.
